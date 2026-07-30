@@ -1,0 +1,45 @@
+body {
+    color: #82a5ca;
+    text-align: center;
+    margin: 0px;
+}
+
+#hero{
+    background-image: url(Space\ Science\ Tech\ GIF\ by\ European\ Space\ Agency\ -\ ESA.gif);
+    background-size: cover;
+    padding-bottom: 15px;
+}
+
+h1 {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow: 0px 0px 4px black;
+}
+.btn {
+    padding: 6px 12px;
+    background-color: white;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    cursor: pointer;
+    color: #82a5ca;
+}
+
+.exploration {
+    border-bottom: 3px solid white;
+}
+
+#main_logo {
+    width: 200px;
+    margin-top: 20px;
+}
+
+#conditions {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}

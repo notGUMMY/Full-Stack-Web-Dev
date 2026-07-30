@@ -1,0 +1,111 @@
+body {
+    background: linear-gradient(135deg, #a2d2ff, rgb(253, 140, 255));
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #000000;
+    font-family: "Happy Monkey", system-ui;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+}
+
+#title {
+    font-family: "Happy Monkey", system-ui;
+    font-optical-sizing: auto;
+    font-weight:800;
+    font-style: normal;
+}
+
+#main-img {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    border-radius: 60px;
+    border-color: #EFB0C9;
+    border-style: solid;
+    border-width: 8px;
+}
+
+#age {
+    /* font-family: "Happy Monkey", system-ui;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal; */
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+#date {
+    /* font-family: "Happy Monkey", system-ui;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal; */
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: -10px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: -10px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0px;
+}
+.gift-image {
+    background-image: url(images/gift-box-cartoon-vector-icon-illustration-holiday-object-icon-isolated-flat-vector_138676-13188.avif);
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    margin: 0px auto;
+    border: 4px solid white;
+    border-radius: 4px;
+}
+
+#gift-1:hover {
+    background-image: url(images/South\ Carolina\ Thank\ You\ GIF\ by\ Travelers\ Rest\ Here.gif);
+}
+
+#gift-2:hover {
+    background-image: url(images/Season\ 8\ Wow\ GIF\ by\ The\ Office.gif);
+}
+
+#gift-3:hover {
+    background-image: url(images/Season\ 1\ Love\ GIF\ by\ Paramount+.gif);
+}
+
+#gift-4:hover {
+    background-image: url(images/Martial\ Arts\ Film\ GIF\ by\ Arrow\ Video.gif);
+}
+
+#gift-5{
+    height: 100px;
+}
+
+#gift-5:hover {
+    background-image: url(images/South\ Carolina\ Thank\ You\ GIF\ by\ Travelers\ Rest\ Here.gif);
+}
+
+#footer {
+    font-style: italic;
+    margin-top: 40px;
+    margin-bottom: 2%;
+}
+
+a {
+    color: #ffffff;
+}

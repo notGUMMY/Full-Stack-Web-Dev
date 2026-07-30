@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+}
+
+.pfp {
+    width: 150px; 
+} 
+
+.card {
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+    border-radius: 12px;
+    box-shadow: #d8cefe 10px 10px 20px;
+}
