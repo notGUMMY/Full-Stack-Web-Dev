@@ -16,4 +16,3 @@ function startGame() {
     }
 console.log(message)
 }
-
